@@ -99,3 +99,6 @@ if __name__ == "__main__":
         # system.leap_frog_dynamics(dt)
         system.runge_kutta_dynamics(dt)
     system.plot_curvature()
+
+
+test
